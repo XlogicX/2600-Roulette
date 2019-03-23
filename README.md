@@ -24,6 +24,9 @@ Even though I originally created the script as US centric, the script intentiona
 
 The script handles the above situation and makes sure that if the international version picks a US location (which is common), that it will line up with the same city as the users always using the -s option.
 
+# Usage Sample
+![alt tag](https://github.com/XlogicX/2600-Roulette/blob/master/sample.png)
+
 # Maintenance and Code change
 Python is one of my least frequently used langauges (for now), so things may not be perfect as of now and I will attempt to maintain the code. However, I will do it very conservatively, as to not disrupt the random functionality (to keep in consistent for everyone using it). For this reason, I still made a best effort to write reasonable code and attempt to address all of the edge-cases I could think of ahead of time.
 
