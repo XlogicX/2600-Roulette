@@ -5,6 +5,8 @@ Tour random 2600 meetings, together<br>
 # Usage
 Give this script a YYYYMM date and it will give you a 2600 meeting location to go to for that month. You can use the -s option if you want the choices limited to the United States Only.
 
+Example: python3 2600_roulette.py 201906 -s
+
 Though it's a random 2600 meeting location, if a friend (or enemy) of yours runs this same script on a different computer, they will get the same suggested meeting location (because fixed seed).
 
 # Frozen in Time
