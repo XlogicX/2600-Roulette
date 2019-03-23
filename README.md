@@ -1,6 +1,6 @@
 # 2600-Roulette
 Tour random 2600 meetings, together<br><br>
-![alt tag](https://github.com/XlogicX/2600-Roulette/blob/master/roulette.png)
+![alt tag](https://github.com/XlogicX/2600-Roulette/blob/master/roulette.png | width=200)
 
 # Usage
 Give this script a YYYYMM date and it will give you a 2600 meeting location to go to for that month. You can use the -s option if you want the choices limited to the United States Only.
