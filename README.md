@@ -28,3 +28,6 @@ The script handles the above situation and makes sure that if the international 
 Python is one of my least frequently used langauges (for now), so things may not be perfect as of now and I will attempt to maintain the code. However, I will do it very conservatively, as to not disrupt the random functionality (to keep in consistent for everyone using it). For this reason, I still made a best effort to write reasonable code and attempt to address all of the edge-cases I could think of ahead of time.
 
 That said, I haven't yet added all comprehensible error checking and input sanitizing. For example, if you run the script without internet connectivity, you may get some stupid errors
+
+# Known Issues
+On MacOS, I did have to follow the steps in https://stackoverflow.com/questions/50236117/scraping-ssl-certificate-verify-failed-error-for-http-en-wikipedia-org to get the SSL part working. Easy fix though
